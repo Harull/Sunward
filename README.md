@@ -1,5 +1,5 @@
 # Sunward ☀🗻
-Sunward is a third-person exploration and puzzle adventure currently developed as a large-scale student production project.
+Sunward is a third-person exploration and puzzle adventure currently developed as a large-scale student production project with [Objectif3D](https://www.objectif3d.com).
 Built around contemplation, traversal, and environmental storytelling, the game encourages players to discover the world through movement, observation, and curiosity. Rather than focusing on combat, Sunward emphasizes navigation, environmental interaction, and player-driven exploration.
 The project is being developed over a 9-month production cycle by a multidisciplinary team composed of programmers, game designers, artists, animators, and riggers.
 
