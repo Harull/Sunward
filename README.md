@@ -1,31 +1,31 @@
-# Sunward ☀🌞
+# Sunward ☀🗻
 Sunward is a third-person exploration and puzzle adventure currently developed as a large-scale student production project.
 Built around contemplation, traversal, and environmental storytelling, the game encourages players to discover the world through movement, observation, and curiosity. Rather than focusing on combat, Sunward emphasizes navigation, environmental interaction, and player-driven exploration.
 The project is being developed over a 9-month production cycle by a multidisciplinary team composed of programmers, game designers, artists, animators, and riggers.
 
-# Gameplay Pillars
+# Gameplay Pillars 🏛
 
-## Exploration
+## Exploration 🗺🗾
 The world is designed to reward curiosity, encouraging players to investigate their surroundings, discover hidden locations, and uncover environmental storytelling.
 
-## Traversal
+## Traversal 👟🏃‍♂️💨
 Movement is at the heart of the experience. Players are enclined to interact with multiple traversal elements, allowing them to navigate complex environments.
 
-## Environmental Puzzles
+## Environmental Puzzles 🧩
 Progression is driven by interactions with the environment and the mastery of traversal mechanics.
 
-## Contemplation
+## Contemplation ⛰🌆
 Sunward aims to create peaceful and memorable moments through atmosphere, level design, and player freedom.
 
-# Gameplay Features
+# Gameplay Features 🎮
 
-## Cable Related Mechanics
-### Rope Swing
+## Cable Related Mechanics 🖇
+### Rope Swing 🖇🏃‍♂️💨
 A physics-driven rope swing system allowing players to build momentum and traverse large gaps.
 The mechanic relies on custom rope simulation technology developed specifically for the project. (if you want to learn more about this, the plugin is [loiicbettercables](https://github.com/harull/loiicbettercables) on my github)
-### Grappling Hook
+### Grappling Hook 💀
 Players can attach a grappling hook to designated points and use momentum-based swinging to navigate the environment. (uses same plugin as above)
-### Features include:
+### Features include: 
 - Dynamic rope attachment
 - Momentum conservation
 - Physics-based traversal
@@ -34,7 +34,7 @@ Players can attach a grappling hook to designated points and use momentum-based 
 Indeed, players can traverse suspended ropes stretched across various locations in the world.
 This mechanic introduces additional movement challenges and expands traversal possibilities.
 
-## Railway Transportation System
+## Railway Transportation System 🚝🚃🚃🚃💨
 A complete railway system was designed and implemented for the project.
 ### Features include:
 - Modular rail network
@@ -43,7 +43,7 @@ A complete railway system was designed and implemented for the project.
 - Custom railway vehicles (a variety of wagons)
 The entire railway system was developed specifically for Sunward and supports both level design workflows and gameplay interactions.
 
-## My Contributions in the end
+## My Contributions in the end 📌
 As a Gameplay Programmer, I contributed to:
 - Rope Swing System
 - Grappling Hook System
@@ -58,10 +58,10 @@ As a Gameplay Programmer, I contributed to:
 - Gameplay Feature Development
 - LoiicBetterCables Plugin Development
 
-## Additional contributions:
+## Additional contributions: ➕👍
 - other gameplay feature programming
 
-## Technologies
+## Technologies 👩‍💻⚙
 - Unreal Engine 5.6
 - C++
 - Blueprints
@@ -70,10 +70,10 @@ As a Gameplay Programmer, I contributed to:
 - Visual studio code 2022
 - Perforce (P4V) as a versionning tool
 
-## Current Status
+## Current Status 🟢
 Sunward is still in production and continues to evolve. Fixing bugs, and polishing.
 
-## Crédits 
+## Crédits 📃
 - Enzo LESAINT - Lead 3D Artist
 - Jade MORERA - Lead 3D Artist
 - Hanna EL OUARDI - 3D Artist
