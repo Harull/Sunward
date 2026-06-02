@@ -1,5 +1,4 @@
 # Sunward
-
 Sunward is a third-person exploration and puzzle adventure currently developed as a large-scale student production project.
 Built around contemplation, traversal, and environmental storytelling, the game encourages players to discover the world through movement, observation, and curiosity. Rather than focusing on combat, Sunward emphasizes navigation, environmental interaction, and player-driven exploration.
 The project is being developed over a 9-month production cycle by a multidisciplinary team composed of programmers, game designers, artists, animators, and riggers.
@@ -9,7 +8,7 @@ The project is being developed over a 9-month production cycle by a multidiscipl
 ## Exploration
 The world is designed to reward curiosity, encouraging players to investigate their surroundings, discover hidden locations, and uncover environmental storytelling.
 
-##Traversal
+## Traversal
 Movement is at the heart of the experience. Players are enclined to interact with multiple traversal elements, allowing them to navigate complex environments.
 
 ## Environmental Puzzles
@@ -60,26 +59,54 @@ As a Gameplay Programmer, I contributed to:
 - LoiicBetterCables Plugin Development
 
 ## Additional contributions:
-- other UI and gameplay feature programming
+- other gameplay feature programming
 
+## Technologies
+- Unreal Engine 5.6
+- C++
+- Blueprints
+- Lumen
+- Nanite
+- Visual studio code 2022
+- Perforce (P4V) as a versionning tool
 
+## Current Status
+Sunward is still in production and continues to evolve. Fixing bugs, and polishing.
 
-Team Composition
-6 Programmers
-7 Artists
-4 Game Designers
-2 Animators
-3 Riggers
-Technologies
-Unreal Engine 5.6
-C++
-Blueprints
-Lumen
-Nanite
-Animation Blueprints
-Inverse Kinematics
-Spline Systems
-Custom Physics Systems
-Current Status
+## Crédits 
+Enzo LESAINT - Lead 3D Artist
+Jade MORERA - Lead 3D Artist
+Hanna EL OUARDI - 3D Artist
+Marie HUILLET - 3D Artist
+Angy LOUMAGNE - 3D Artist + Lighting Artist
+Kevin OMOUI - 3D Artist
+Mariam KAMEL - 3D Artist + UI Artist
+Quentin ARNAL - 3D Artist + Character Artist
+Sabry ABDOUN - VFX Artist
 
-Sunward is currently in production and continues to evolve as new gameplay systems, content, and traversal mechanics are integrated into the project.
+Romain KNAPIK - Animator
+Quentin NGUYEN THE - Animator
+
+Valentin DETUNCQ - Rigger
+Constantin LAIDET - Rigger
+Steven ISABELLE - Rigger
+
+Damien PUECHLONG - Lead Programmer
+Nino COURRIEU - Programmer
+Loïc GIACOSA - Programmer
+Romain MARTINEZ - Programmer
+Julio MOULS - Programmer
+Gregory ZANATTA - Programmer
+
+Gabriel CLAMENS - Game/Level Design
+Mathis DOLO - Game/Level Design
+Loïc Gachard - Game/Level Design
+Adam REPOS - Game/Level Design
+
+Arnaud ASTAR - 3D Teacher
+Gabriel BERNARD - VFX Teacher
+François DELACHAPELLE - Prog Teacher
+Vincent HOHMANN - Level Design Teacher
+Hugues PEDRENO - Game Design Teacher
+Micael WITKOWSKI - Tech Teacher
+Oscar ROMEAS - Animator Teacher
