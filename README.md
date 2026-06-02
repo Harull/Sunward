@@ -74,39 +74,39 @@ As a Gameplay Programmer, I contributed to:
 Sunward is still in production and continues to evolve. Fixing bugs, and polishing.
 
 ## Crédits 
-Enzo LESAINT - Lead 3D Artist
-Jade MORERA - Lead 3D Artist
-Hanna EL OUARDI - 3D Artist
-Marie HUILLET - 3D Artist
-Angy LOUMAGNE - 3D Artist + Lighting Artist
-Kevin OMOUI - 3D Artist
-Mariam KAMEL - 3D Artist + UI Artist
-Quentin ARNAL - 3D Artist + Character Artist
-Sabry ABDOUN - VFX Artist
+- Enzo LESAINT - Lead 3D Artist
+- Jade MORERA - Lead 3D Artist
+- Hanna EL OUARDI - 3D Artist
+- Marie HUILLET - 3D Artist
+- Angy LOUMAGNE - 3D Artist + Lighting Artist
+- Kevin OMOUI - 3D Artist
+- Mariam KAMEL - 3D Artist + UI Artist
+- Quentin ARNAL - 3D Artist + Character Artist
+- Sabry ABDOUN - VFX Artist
 
-Romain KNAPIK - Animator
-Quentin NGUYEN THE - Animator
+- Romain KNAPIK - Animator
+- Quentin NGUYEN THE - Animator
 
-Valentin DETUNCQ - Rigger
-Constantin LAIDET - Rigger
-Steven ISABELLE - Rigger
+- Valentin DETUNCQ - Rigger
+- Constantin LAIDET - Rigger
+- Steven ISABELLE - Rigger
 
-Damien PUECHLONG - Lead Programmer
-Nino COURRIEU - Programmer
-Loïc GIACOSA - Programmer
-Romain MARTINEZ - Programmer
-Julio MOULS - Programmer
-Gregory ZANATTA - Programmer
+- Damien PUECHLONG - Lead Programmer
+- Nino COURRIEU - Programmer
+- Loïc GIACOSA - Programmer
+- Romain MARTINEZ - Programmer
+- Julio MOULS - Programmer
+- Gregory ZANATTA - Programmer
 
-Gabriel CLAMENS - Game/Level Design
-Mathis DOLO - Game/Level Design
-Loïc Gachard - Game/Level Design
-Adam REPOS - Game/Level Design
+- Gabriel CLAMENS - Game/Level Design
+- Mathis DOLO - Game/Level Design
+- Loïc Gachard - Game/Level Design
+- Adam REPOS - Game/Level Design
 
-Arnaud ASTAR - 3D Teacher
-Gabriel BERNARD - VFX Teacher
-François DELACHAPELLE - Prog Teacher
-Vincent HOHMANN - Level Design Teacher
-Hugues PEDRENO - Game Design Teacher
-Micael WITKOWSKI - Tech Teacher
-Oscar ROMEAS - Animator Teacher
+- Arnaud ASTAR - 3D Teacher
+- Gabriel BERNARD - VFX Teacher
+- François DELACHAPELLE - Prog Teacher
+- Vincent HOHMANN - Level Design Teacher
+- Hugues PEDRENO - Game Design Teacher
+- Micael WITKOWSKI - Tech Teacher
+- Oscar ROMEAS - Animator Teacher
