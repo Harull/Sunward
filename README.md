@@ -19,12 +19,12 @@ Progression is driven by interactions with the environment and the mastery of tr
 ## Contemplation ⛰🌆
 Sunward aims to create peaceful and memorable moments through atmosphere, level design, and player freedom.
 
-![CableImpulse](/Images/SunwardCover.png)
-![CableImpulse](/Images/enviroCaverne.png)
-![CableImpulse](/Images/lac.png)
-![CableImpulse](/Images/brokenTower.png)
-![CableImpulse](/Images/grotteChampignon.png)
-![CableImpulse](/Images/faille.png)
+![Cover](/Images/SunwardCover.png)
+![Cavern](/Images/enviroCaverne.png)
+![Lake](/Images/lac.png)
+![BrokenTower](/Images/brokenTower.png)
+![MushroomCave](/Images/grotteChampignon.png)
+![Rift](/Images/faille.png)
 
 # Gameplay Features 🎮
 
